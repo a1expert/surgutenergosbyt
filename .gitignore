@@ -1,0 +1,24 @@
+# JetBrains PhpShtorm project dir
+.idea
+# jEdit system files
+*~
+*#
+*.marks
+*.orig
+
+# project config
+config.ini
+
+# project working dirs
+/templates/
+/sys-temp/
+/errors/logs/
+/images/
+/files/
+
+# special dirs
+/pma/
+
+# special files
+sftp-config.json
+adminer.php

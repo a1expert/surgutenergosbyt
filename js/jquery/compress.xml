@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filepack>
+	<packages>
+		<pack path="jquery.js" type="js">
+			<file path="sources/jquery-1.7.2.js" delete="false" />
+		</pack>
+	</packages>
+</filepack>

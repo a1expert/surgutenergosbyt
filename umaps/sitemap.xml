@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<sitemap> 
+	<match pattern="^sitemap$">
+		<param name="cache" value="10" />
+		<generate src="udata://custom/sitemapnew/10/" />
+		<transform src="./xsltTpls/sys-tpls/my-sitemap-new.xsl">
+			<param name="domain" value="{_http_host}" />
+		</transform>
+		<serialize type="xml" />
+	</match>
+</sitemap>

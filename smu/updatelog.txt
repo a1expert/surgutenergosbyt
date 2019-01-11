@@ -1,0 +1,173 @@
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Extracting...
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543.zip
+- Installing component autoupdate-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/1.autoupdate-src.2.8.1.3-15820.zip
+- Installing component autoupdate
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/1.autoupdate-src.2.8.1.3-15820.zip
+- Installing component core-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/2.core-src.2.8.1.3-15820.zip
+- Installing component core
+---- Packages
+---- Folders
+---- Files
+---- Update restrictions
+---- Update hierarchy types
+---- Update object types
+---- Update objects
+---- Update registry
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/2.core-src.2.8.1.3-15820.zip
+- Installing component content-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/3.content-src.2.8.1.3-15820.zip
+- Installing component content
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/3.content-src.2.8.1.3-15820.zip
+- Installing component seo-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/4.seo-src.2.8.1.3-15820.zip
+- Installing component seo
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/4.seo-src.2.8.1.3-15820.zip
+- Installing component webo-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/5.webo-src.2.8.1.3-15820.zip
+- Installing component webo
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/5.webo-src.2.8.1.3-15820.zip
+- Installing component filemanager-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/6.filemanager-src.2.8.1.3-15820.zip
+- Installing component filemanager
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/6.filemanager-src.2.8.1.3-15820.zip
+- Installing component stat-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/7.stat-src.2.8.1.3-15820.zip
+- Installing component stat
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/7.stat-src.2.8.1.3-15820.zip
+- Installing component backup-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/8.backup-src.2.8.1.3-15820.zip
+- Installing component backup
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/8.backup-src.2.8.1.3-15820.zip
+- Installing component search-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/9.search-src.2.8.1.3-15820.zip
+- Installing component search
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/9.search-src.2.8.1.3-15820.zip
+- Installing component blogs20-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/10.blogs20-src.2.8.1.3-15820.zip
+- Installing component blogs20
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/10.blogs20-src.2.8.1.3-15820.zip
+- Installing component dispatches-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/11.dispatches-src.2.8.1.3-15820.zip
+- Installing component dispatches
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/11.dispatches-src.2.8.1.3-15820.zip
+- Installing component vote-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/12.vote-src.2.8.1.3-15820.zip
+- Installing component vote
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/12.vote-src.2.8.1.3-15820.zip
+- Installing component users-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/13.users-src.2.8.1.3-15820.zip
+- Installing component users
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/13.users-src.2.8.1.3-15820.zip
+- Installing component forum-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/14.forum-src.2.8.1.3-15820.zip
+- Installing component forum
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/14.forum-src.2.8.1.3-15820.zip
+- Installing component config-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/15.config-src.2.8.1.3-15820.zip
+- Installing component config
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/15.config-src.2.8.1.3-15820.zip
+- Installing component data-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/16.data-src.2.8.1.3-15820.zip
+- Installing component data
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/16.data-src.2.8.1.3-15820.zip
+- Installing component news-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/17.news-src.2.8.1.3-15820.zip
+- Installing component news
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543/components/17.news-src.2.8.1.3-15820.zip
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4c9edb41b96864c9edb41b968f8.95288543.zip
+Extracting...
+Extracting...
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4dc5177292a254dc5177292a2b0.48312946.zip
+- Installing component autoupdate-src
+---- Packages
+Installing package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4dc5177292a254dc5177292a2b0.48312946/components/1.autoupdate-src.2.8.2.1-15964.zip
+- Installing component autoupdate
+---- Packages
+---- Folders
+---- Files
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4dc5177292a254dc5177292a2b0.48312946/components/1.autoupdate-src.2.8.2.1-15964.zip
+Done package /home/surgutene1/surgutenergosbyt.ru/docs/smu/packages/ssid_4dc5177292a254dc5177292a2b0.48312946.zip
